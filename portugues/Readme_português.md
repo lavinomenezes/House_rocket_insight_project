@@ -1,4 +1,5 @@
 # House Rocket insight project
+To read in english [click here](https://github.com/lavinomenezes/House_rocket_insight_project)
 
 ## Problema de negócio
 
@@ -126,7 +127,7 @@ Enquanto as propriedades com média classificação tem tem um crescimento de 0.
 Propriedades em más condições são em média 66,64 % mais baratas em comparação as em boas condições, então podem ser adquiridas com um baixo investimento e reformadas para revenda mantendo um bom lucro.
 </ul>
 
-<i>Todas as hipóteses testadas podem ser vistas no [notebook](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/House_rocket_notebook.ipynb) para ver a descrição total, ou um breve resumo em [Hipóteses](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/Hipoteses.md)</i>
+<i>Todas as hipóteses testadas podem ser vistas no [notebook](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/notebooks/House_rocket_notebook.ipynb) para ver a descrição total, ou um breve resumo em [Hipóteses](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/portugues/Hipoteses.md)</i>
 
 ## Resultados financeiros
 
