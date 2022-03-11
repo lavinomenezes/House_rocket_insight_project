@@ -1,5 +1,5 @@
 # House Rocket insight project
-<i>Para ler o projeto em português [clique aqui](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/Readme_portugu%C3%AAs.md)</i>
+<i>Para ler o projeto em português [clique aqui](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/portugues/Readme_portugu%C3%AAs.md)</i>
 
 ## Business Problem
 
@@ -115,7 +115,7 @@ While the properties with average grade have a growth of 0.74% a month, on avera
 They can be acquired with a low investment and renovated for sale, maintaining a good profit.
 </ul>
 
-<i>All the hyphothesis tested can be be check in the [notebook](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/House_rocket_notebook.ipynb) to see they full description, or a brief overview on [Hypothesis](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/Hypothesis.md)</i>
+<i>All the hyphothesis tested can be be check in the [notebook](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/notebooks/House_rocket_notebook.ipynb) to see they full description, or a brief overview on [Hypothesis](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/Hypothesis.md)</i>
 
 ## Business results
 
