@@ -84,7 +84,7 @@ Será entregue um app online para fácil visualização de todos os membros envo
 <ul>
  <li>Coleta de dados;</li>
  <li>Limpeza dos dados;</li>
- <li>Transformação dos dados</li>
+ <li>Transformação dos dados;</li>
  <li>Descrição dos dados;</li>
  <li>Remoção de dados derivados de erros de digitação;</li>
  <li>Criação de novas features:</li>
@@ -109,17 +109,17 @@ Será entregue um app online para fácil visualização de todos os membros envo
 <ul>
 <h3><li><strong>Propriedades com vista para o mar são 212,42 % mais caras na média;</strong></li> </h3>
 
-Bem mais que o esperado que era de 30% então é necessário um investimento maior para adicionar esse tipo de propriedade para o portfólio da empresa
+Bem mais que o esperado que era de 30% então é necessário um investimento maior para adicionar esse tipo de propriedade para o portfólio da empresa.
 
  
 <h3><strong><li>Propriedades com vista para o mar tem um crescimento mês a mês maior que as que não tem;</strong></li></h3> 
 
-Enquanto as propriedades sem beira-mar tem um crescimento de 0.2% ao mês em média as que possuem tem crescem a 4.81%, em média, apesar de ser necessário um maior investimento propriedades com vista para o mar são um bom investimento ao médio e longo prazo
+Enquanto as propriedades sem beira-mar tem um crescimento de 0.2% ao mês em média as que possuem tem crescem a 4.81%, em média, apesar de ser necessário um maior investimento propriedades com vista para o mar são um bom investimento ao médio e longo prazo.
 
 
 <h3><strong><li>Propriedades com uma classificação considerada alta tem um crescimento mês a mês maior que aquelas que têm classificação média;</strong></li></h3>
 
-Enquanto as propriedades com média classificação tem tem um crescimento de 0.74 % ao mês em média, as com alta classificação crescem a 1.20% ao mês em média, uma diferença de 60.87%, então eles podem ser uma boa adição para o portfólio em termos de médio o longo investimento
+Enquanto as propriedades com média classificação tem tem um crescimento de 0.74 % ao mês em média, as com alta classificação crescem a 1.20% ao mês em média, uma diferença de 60.87%, então eles podem ser uma boa adição para o portfólio em termos de médio o longo investimento.
 
 
 <h3><strong><li>Propriedades em más condições são mais baratas que aquelas em boas condições.</strong></li></h3>
