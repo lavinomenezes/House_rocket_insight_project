@@ -93,7 +93,7 @@ The selling price was determined as follows:</li>
  <li>Exploratory analysis;</li>
  <li>Hypothesis testing;</li>
  <li>Conclusion of insights;</li>
- <li>Deploy the app in the cloud</li>
+ <li>Deploy the app in the cloud.</li>
 </ul>
 
 ##  Main business insight
@@ -131,7 +131,7 @@ There are a total of 21,461 available properties to purchase, of this amount 10,
 
 ##  Conclusion
 
-In this project it was suggested properties for buying and the price of selling as well hypothesis were tested to better understand the price behavior and the results was delivered to the CEO, the list of suggestions as well the main insights are available online at [House rocket insight report] to be accessed by the CEO and  other company’s members.
+In this project it was suggested properties for buying and the price of selling as well hypothesis were tested to better understand the price behavior and the results was delivered to the CEO, the list of suggestions as well the main insights are available online at [House rocket insight report](https://house-rocket-insight-report.herokuapp.com/) to be accessed by the CEO and  other company’s members.
 
 
 
