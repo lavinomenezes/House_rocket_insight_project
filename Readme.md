@@ -136,7 +136,7 @@ Existe um total de 21,461 casas disponíveis para compras, desse montante 10.498
 
 
 
-| Propriedades disponiveis | Sugestões para compra | Investimento | Retorno | Lucro |
+| Propriedades dispóniveis | Sugestões para compra | Investimento | Retorno | Lucro |
 |:----------------------:|:--------------------:|:-------------:|:--------:|:--------:|
 | 21,461 | 10,498 | $5,656,988,504.00 | $6,622,652,682.20 | $965,664,178.2 |
 
@@ -145,7 +145,7 @@ Existe um total de 21,461 casas disponíveis para compras, desse montante 10.498
 
 ##  Conclusão
 
-Neste projeto foram selecionados propriedade para compra e sugerido o preço de revenda assim como hipóteses foram testadas para entender melhor o comportamento dos preços e o resultado foi entregue para o CEO,a lista de sugestões assim como os testes dos insights acima, estão disponíveis online em [House rocket insight report] para ser acessado pelo CEO e qualquer outro membro da empresa que venha a interessar.
+Neste projeto foram selecionados propriedade para compra e sugerido o preço de revenda assim como hipóteses foram testadas para entender melhor o comportamento dos preços e o resultado foi entregue para o CEO,a lista de sugestões assim como os testes dos insights acima, estão disponíveis online em [House rocket insight report](https://house-rocket-insight-report.herokuapp.com/) para ser acessado pelo CEO e qualquer outro membro da empresa que venha a interessar.
 
 
 
