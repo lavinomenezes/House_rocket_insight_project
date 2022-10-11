@@ -1,18 +1,17 @@
 # House Rocket insight project
-To read in english [click here](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/English/Readme_english.md)
+
 
 ## Problema de negócio
 
-Empresa fictícia de compra e venda de propriedades onde o CEO da empresa gostaria de maximizar o lucro da empresa encontrando bons negócios. Foi solicitado à equipe de ciência de dados para analisar o portfólio de imóveis disponíveis para a compra e retornasse uma lista com sugestão de compra e venda para atender a demanda do CEO de maximizar os lucros e diminuir as perdas.
-Será entregue um app online para fácil visualização de todos os membros envolvidos no processo que conterá:  
+A House Rocket é uma empresa fictícia de compra e venda de imóveis cujo CEO gostaria de maximizar seu lucro e diminuir perdas encontrando bons negócios. Foi solicitada à equipe de ciência de dados a análise de portfólio de imóveis disponíveis para compra e retorno com uma lista de sugestões de compra e venda para atender à demanda. Será entregue um app online para que todos os membros envolvidos no processo de compra e venda possam ter uma fácil visualização das seguintes funcionalidades: 
 
 <ul>
 <li>Tabela de sugestão com compra e preço de venda de imóveis;</li>
 <li>Mapa para visualização geográfica das propriedades disponíveis;</li>
-<li>Uma análise de hipóteses de negócios.</li>
+<li>Uma análise de hipóteses de negócios;</li>
+<li>Apresentação do lucro que a empresa poderá obter seguindo a lista de sugestão</li>
 </ul>
 
->Ao final constará o lucro que a empresa poderá obter com a lista de sugestão
 
 
 **Dataset overview**
@@ -60,13 +59,11 @@ Será entregue um app online para fácil visualização de todos os membros envo
 </li>
 <li>As informações estão limitadas numa faixa de um ano de maio de 2014 a maio de 2015;
 </li>
-<li>Propriedades que apresentarem incoerência  entre números de quartos e área total em comparação a média por quantidade de quartos serão considerados erros de digitação e serão deletados;
+<li>Imóveis que apresentarem incoerência entre números de quartos e área total em comparação à média por quantidade de quartos serão considerados erros de digitação e serão deletados;
 </li>
-<li>Propriedades construídas antes de 1955 foram consideradas velhas;</li>
-<li>Propriedade com classificação(grade) 7 foram consideradas medianas e com classificação de 11 a 13 foram consideradas de alta qualidade;</li>
-<li>Propriedades com condição de 1 a 2 foram consideradas em más condições e as de 4 a 5 em boas condições;</li>
-
-
+<li>Imóveis construídos antes de 1955 foram considerados velhos;</li>
+<li>Imóveis com classificação (grade) 7 foram considerados medianos aqueles com classificação de 11 a 13 foram considerados de alta qualidade;</li>
+<li>Imóveis com condição (condition) de 1 a 2 foram considerados em más condições e aqueles de 4 a 5 foram considerados em boas condições</li>
 <li>Para compra  foi considerado propriedades em boas condições e preço menor que a mediana da região. O preço de revenda foi determinado da seguinte forma:</li>
  <ul>
 <li>se o preço for maior que a mediana que a mediana da região + estação:</li>
@@ -107,24 +104,24 @@ Será entregue um app online para fácil visualização de todos os membros envo
 ##  Os  principais insights de negócio
 
 <ul>
-<h3><li><strong>Propriedades com vista para o mar são 212,42 % mais caras na média;</strong></li> </h3>
+<h3><li><strong>Imóveis com vista para o mar são 212.42% mais caros que imóveis sem vista para o mar, considerando o preço médio</strong></li> </h3>
 
-Bem mais que o esperado que era de 30% então é necessário um investimento maior para adicionar esse tipo de propriedade para o portfólio da empresa.
+Com o preço médio superior ao previsto, que era de 30%, é necessário um investimento maior para adicionar esse tipo de imóvel para o portfólio da empresa.
 
  
-<h3><strong><li>Propriedades com vista para o mar tem um crescimento mês a mês maior que as que não tem;</strong></li></h3> 
+<h3><strong><li>Preços de imóveis com vista para o mar têm um crescimento mês a mês maior que as que não têm</strong></li></h3> 
 
-Enquanto as propriedades sem beira-mar tem um crescimento de 0.2% ao mês em média as que possuem tem crescem a 4.81%, em média, apesar de ser necessário um maior investimento propriedades com vista para o mar são um bom investimento ao médio e longo prazo.
-
-
-<h3><strong><li>Propriedades com uma classificação considerada alta tem um crescimento mês a mês maior que aquelas que têm classificação média;</strong></li></h3>
-
-Enquanto as propriedades com média classificação tem tem um crescimento de 0.74 % ao mês em média, as com alta classificação crescem a 1.20% ao mês em média, uma diferença de 60.87%, então eles podem ser uma boa adição para o portfólio em termos de médio o longo investimento.
+Enquanto os imóveis que não têm vista para o mar apresentam um crescimento de 0.2% ao mês em média, as que têm crescem a 4.81%, em média. Apesar de ser necessário um maior investimento, imóveis com vista para o mar geram bom retorno a médio e longo prazos.
 
 
-<h3><strong><li>Propriedades em más condições são mais baratas que aquelas em boas condições.</strong></li></h3>
+<h3><strong><li>Imóveis com uma classificação considerada alta têm um crescimento mês a mês maior que aquelas que têm classificação média</strong></li></h3>
 
-Propriedades em más condições são em média 66,64 % mais baratas em comparação as em boas condições, então podem ser adquiridas com um baixo investimento e reformadas para revenda mantendo um bom lucro.
+Enquanto os imóveis com classificação média têm um crescimento médio de 0.74% ao mês, as com alta classificação crescem em média 1.20% ao mês, uma diferença de 60.87%, de maneira que eles podem ser uma boa adição para o portfólio em termos de investimento a médio ou longo investimento
+
+
+<h3><strong><li>Imóveis em más condições são mais baratos que aqueles em boas condições</strong></li></h3>
+
+Imóveis em más condições são em média 66.64 % mais baratos em comparação àqueles em boas condições, então podem ser adquiridos com um baixo investimento e reformados para revenda mantendo um bom lucro.
 </ul>
 
 <i>Todas as hipóteses testadas podem ser vistas no [notebook](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/notebooks/House_rocket_notebook.ipynb) para ver a descrição total, ou um breve resumo em [Hipóteses](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/Hipoteses.md)</i>
@@ -132,11 +129,11 @@ Propriedades em más condições são em média 66,64 % mais baratas em compara�
 ## Resultados financeiros
 
 
-Existe um total de 21,461 casas disponíveis para compras, desse montante 10.498 foram sugeridas para compra, a tabela abaixo descreve os valores resultantes da análise.
+Existe um total de 21.461 imóveis disponíveis para compra, de cujo montante 10.498 foram sugeridos para compra. A tabela abaixo descreve os valores resultantes da análise.
 
 
 
-| Propriedades dispóniveis | Sugestões para compra | Investimento | Retorno | Lucro |
+| Imóveis dispóniveis | Sugestões para compra | Investimento | Retorno | Lucro |
 |:----------------------:|:--------------------:|:-------------:|:--------:|:--------:|
 | 21,461 | 10,498 | $5,656,988,504.00 | $6,622,652,682.20 | $965,664,178.2 |
 
@@ -145,7 +142,8 @@ Existe um total de 21,461 casas disponíveis para compras, desse montante 10.498
 
 ##  Conclusão
 
-Neste projeto foram selecionados propriedade para compra e sugerido o preço de revenda assim como hipóteses foram testadas para entender melhor o comportamento dos preços e o resultado foi entregue para o CEO,a lista de sugestões assim como os testes dos insights acima, estão disponíveis online em [House rocket insight report](https://house-rocket-insight-report.herokuapp.com/) para ser acessado pelo CEO e qualquer outro membro da empresa que venha a interessar.
+Neste projeto foram selecionados imóveis para compra e sugeridos preços de revenda. Também foram testadas hipóteses para entender melhor o comportamento dos preços e o resultado foi entregue para o CEO. A lista de sugestões, assim como os testes dos <i>insights</i> acima descritos, estão disponíveis online em [House rocket insight report](https://house-rocket-insight-report.herokuapp.com/) para serem acessados pelo CEO ou qualquer outro membro da empresa que venha a quem as informações interessem.
+
 
 
 
@@ -156,10 +154,10 @@ Neste projeto foram selecionados propriedade para compra e sugerido o preço de 
 ##  Próximos passos
 
 <ul>
-<li>Aumentar a quantidade de informações relevantes sobre as propriedades;
+<li>Aumentar a quantidade de informações relevantes sobre os imóveis;
 </li>
 <li>Explorar mais a fundo as hipóteses promissoras; 
 </li>
 <li>Testar novas hipóteses;</li>
-<li>Explorar modelos de machine learning para prever o comportamento dos preços dos imóveis</li>
+<li>Explorar modelos de <i>machine learning</i> para prever o comportamento dos preços dos imóveis</li>
 </ul>
