@@ -103,22 +103,22 @@ A House Rocket é uma empresa fictícia de compra e venda de imóveis cujo CEO g
 
 ##  Os  principais insights de negócio
 
-<h3><li><strong>Imóveis com vista para o mar são 212.42% mais caros que imóveis sem vista para o mar, considerando o preço médio</strong></li> </h3>
+<h3><strong>Imóveis com vista para o mar são 212.42% mais caros que imóveis sem vista para o mar, considerando o preço médio</strong> </h3>
 
 Com o preço médio superior ao previsto, que era de 30%, é necessário um investimento maior para adicionar esse tipo de imóvel para o portfólio da empresa.
 
  
-<h3><strong><li>Preços de imóveis com vista para o mar têm um crescimento mês a mês maior que as que não têm</strong></li></h3> 
+<h3><strong>Preços de imóveis com vista para o mar têm um crescimento mês a mês maior que as que não têm</strong></h3> 
 
 Enquanto os imóveis que não têm vista para o mar apresentam um crescimento de 0.2% ao mês em média, as que têm crescem a 4.81%, em média. Apesar de ser necessário um maior investimento, imóveis com vista para o mar geram bom retorno a médio e longo prazos.
 
 
-<h3><strong><li>Imóveis com uma classificação considerada alta têm um crescimento mês a mês maior que aquelas que têm classificação média</strong></li></h3>
+<h3><strong>Imóveis com uma classificação considerada alta têm um crescimento mês a mês maior que aquelas que têm classificação média</strong></h3>
 
 Enquanto os imóveis com classificação média têm um crescimento médio de 0.74% ao mês, as com alta classificação crescem em média 1.20% ao mês, uma diferença de 60.87%, de maneira que eles podem ser uma boa adição para o portfólio em termos de investimento a médio ou longo investimento
 
 
-<h3><strong><li>Imóveis em más condições são mais baratos que aqueles em boas condições</strong></li></h3>
+<h3><strong>Imóveis em más condições são mais baratos que aqueles em boas condições</strong></h3>
 
 Imóveis em más condições são em média 66.64 % mais baratos em comparação àqueles em boas condições, então podem ser adquiridos com um baixo investimento e reformados para revenda mantendo um bom lucro.
 
