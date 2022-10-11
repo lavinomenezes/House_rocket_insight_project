@@ -103,7 +103,6 @@ A House Rocket é uma empresa fictícia de compra e venda de imóveis cujo CEO g
 
 ##  Os  principais insights de negócio
 
-<ul>
 <h3><li><strong>Imóveis com vista para o mar são 212.42% mais caros que imóveis sem vista para o mar, considerando o preço médio</strong></li> </h3>
 
 Com o preço médio superior ao previsto, que era de 30%, é necessário um investimento maior para adicionar esse tipo de imóvel para o portfólio da empresa.
@@ -122,7 +121,7 @@ Enquanto os imóveis com classificação média têm um crescimento médio de 0.
 <h3><strong><li>Imóveis em más condições são mais baratos que aqueles em boas condições</strong></li></h3>
 
 Imóveis em más condições são em média 66.64 % mais baratos em comparação àqueles em boas condições, então podem ser adquiridos com um baixo investimento e reformados para revenda mantendo um bom lucro.
-</ul>
+
 
 <i>Todas as hipóteses testadas podem ser vistas no [notebook](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/notebooks/House_rocket_notebook.ipynb) para ver a descrição total, ou um breve resumo em [Hipóteses](https://github.com/lavinomenezes/House_rocket_insight_project/blob/main/Hipoteses.md)</i>
 
