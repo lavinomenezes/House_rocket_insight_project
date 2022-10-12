@@ -165,5 +165,12 @@ Neste projeto foram selecionados imóveis para compra e sugeridos preços de rev
 ## Ferramentas utilizadas
 
 <ul>
-<li>Python</ul>
+<li>Jupyter notebook</li>
+    <li>Pycharm communit</li>
+<li>Python</li>
+<li>Pandas</li>
+    <li>Seaborn</li>
+<li>Streamlit</li>
+    <li>Heroku</li>
+    <li>Git</li>
 </ul>
