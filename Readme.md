@@ -160,3 +160,6 @@ Neste projeto foram selecionados imóveis para compra e sugeridos preços de rev
 <li>Testar novas hipóteses;</li>
 <li>Explorar modelos de <i>machine learning</i> para prever o comportamento dos preços dos imóveis</li>
 </ul>
+
+
+## Ferramentas utilizadas
