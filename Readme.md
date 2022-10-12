@@ -163,3 +163,7 @@ Neste projeto foram selecionados imóveis para compra e sugeridos preços de rev
 
 
 ## Ferramentas utilizadas
+
+<ul>
+<li>Python</ul>
+</ul>
